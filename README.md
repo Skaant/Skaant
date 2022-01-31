@@ -44,7 +44,7 @@ The following are archived but meaningful projects :
   
   I started to work on **motifs-js** to abstract and share common patterns between my various project.
   
-  At first it was a _project/file system_ patterns library (v. [0.1](https://github.com/Skaant/_motif-js_0.1), [0.2](https://github.com/Skaant/_motif-js_0.2)) but I soon made it a **static website generator** (v. [1](https://github.com/Skaant/motifs-js)) (I'll explain my choice for JAM stack below).
+  At first it was a _project/file system_ patterns library (v. [0.1](https://github.com/Skaant/_motif-js_0.1), [0.2](https://github.com/Skaant/_motif-js_0.2)) but I soon made it a **static website generator** (v. [1⭐✨](https://github.com/Skaant/motifs-js)) (I'll explain my choice for JAM stack below).
   
   There, I also built a test framework inspired by Jest (but I won't do it again lol).
   
@@ -72,7 +72,7 @@ Times after I discovered Gatsby, I started to replace wy websites' sources (buil
 
 * **HIGHBS-BOK.** The most advanced product I made (and maintain) is my [*deep optimistic SF* book's website](https://highbs-bok.art) website.
 
-  The repository can be found at this url : [https://github.com/Skaant/highbs-bok](https://github.com/Skaant/highbs-bok).
+  The repository can be found at this url : [https://github.com/Skaant/highbs-bok⭐✨](https://github.com/Skaant/highbs-bok).
 
 * **IMROK.** [I'm also currently refactoring my creative website](https://github.com/Skaant/imrok-next),
 
