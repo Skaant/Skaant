@@ -50,11 +50,11 @@ The following are archived but meaningful projects :
   
   I stopped this project after discovering Gatsby and finding out it'd be a pain to refactor the codebase from JS to TS.
   
-  The documentation website can still be found at this url : [https://motifs-js-website-imrok.vercel.app/](https://motifs-js-website-imrok.vercel.app/). You'd find the answer of the question [what is a MOTIF ?](https://motifs-js-website-imrok.vercel.app/motifs/motif#what-is-a-motif-).
+ The documentation website can still be found at this url : [https://motifs-js-website-imrok.vercel.app/](https://motifs-js-website-imrok.vercel.app/). You'd find the answer of the question [what is a MOTIF ?](https://motifs-js-website-imrok.vercel.app/motifs/motif#what-is-a-motif-).
   
- * I also [made a small analytic script](https://github.com/Skaant/nalytimk-functions) for me and my girlfriend's websites,
+* I also [made a small analytic script](https://github.com/Skaant/nalytimk-functions) for my girlfriend's and I websites,
  
- * [I started to work on a web-crawler](https://github.com/Skaant/bulbapedia-crawler) to harvest Bublbapedia's Pokémon data.
+* [I started to work on a web-crawler](https://github.com/Skaant/bulbapedia-crawler) to harvest Bublbapedia's Pokémon data.
 
   This was meant to provision [my Pokémon team builder app](https://poke-team.net/).
   
