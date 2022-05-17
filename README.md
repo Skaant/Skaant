@@ -25,6 +25,26 @@ Currently **my main skills are** :
 **I'm also found of patterns !**
 
 ## My GitHub's projects
+  
+### Current projects
+
+Due to my profesional schedule, I'm not working on "big" projects on my own anymore.
+
+Instead **I found practical, valuable and more self-centered uses** of my developer skills.
+
+> Global consciousness
+
+After doing some researches about ecological impacts of numeric activities, I took a deep dive into JAM stack.
+
+Times after I discovered Gatsby, I started to replace wy websites' sources (built with my own `motifs-js` framework, see above) with this technology.
+
+* **HIGHBS-BOK.** The most advanced product I made (and maintain) is my [*deep optimistic SF* book's website](https://highbs-bok.art) website.
+
+  The repository can be found at this url : [https://github.com/Skaant/highbs-bok⭐✨](https://github.com/Skaant/highbs-bok).
+
+* **IMROK.** [I'm also currently refactoring my creative website](https://github.com/Skaant/imrok-next),
+
+* **RIMAROK.** Also planned is a rework of my profesional website.
 
 ### Historic projects
 
@@ -57,25 +77,5 @@ The following are archived but meaningful projects :
 * [I started to work on a web-crawler](https://github.com/Skaant/bulbapedia-crawler) to harvest Bublbapedia's Pokémon data.
 
   This was meant to provision [my Pokémon team builder app](https://poke-team.net/).
-  
-### Current projects
-
-Due to my profesional schedule, I'm not working on "big" projects on my own anymore.
-
-Instead **I found practical, valuable and more self-centered uses** of my developer skills.
-
-> Global consciousness
-
-After doing some researches about ecological impacts of numeric activities, I took a deep dive into JAM stack.
-
-Times after I discovered Gatsby, I started to replace wy websites' sources (built with my own `motifs-js` framework, see above) with this technology.
-
-* **HIGHBS-BOK.** The most advanced product I made (and maintain) is my [*deep optimistic SF* book's website](https://highbs-bok.art) website.
-
-  The repository can be found at this url : [https://github.com/Skaant/highbs-bok⭐✨](https://github.com/Skaant/highbs-bok).
-
-* **IMROK.** [I'm also currently refactoring my creative website](https://github.com/Skaant/imrok-next),
-
-* **RIMAROK.** Also planned is a rework of my profesional website.
 
   Update is scheduled for 2022 S2, as a consequence of a sustainable _IT/sober design and developement_ formation to come.
