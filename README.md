@@ -38,13 +38,17 @@ After doing some researches about ecological impacts of numeric activities, I to
 
 Times after I discovered Gatsby, I started to replace wy websites' sources (built with my own `motifs-js` framework, see above) with this technology.
 
-* **HIGHBS-BOK.** The most advanced product I made (and maintain) is my [*deep optimistic SF* book's website](https://highbs-bok.art) website.
+* **RIMAROK.com** My [profesionnal freelance web developer site](https://rimarok.com).
 
-  The repository can be found at this url : [https://github.com/Skaant/highbs-bok⭐✨](https://github.com/Skaant/highbs-bok).
+  The repository can be found here : [https://github.com/Skaant/rimarok-2](https://github.com/Skaant/rimarok-2).
+  
+  And the release tracking project, that I made to work with [@Tim-jn](https://github.com/Tim-jn/) here : [https://github.com/Skaant/rimarok-2/projects/1](https://github.com/Skaant/rimarok-2/projects/1).
 
-* **IMROK.** [I'm also currently refactoring my creative website](https://github.com/Skaant/imrok-next),
+* **HIGHBS-BOK.art** The most advanced product I made (and maintain) is my [*deep optimistic SF* book's website](https://highbs-bok.art) website.
 
-* **RIMAROK.** Also planned is a rework of my profesional website.
+  The repository can be found at this url : [https://github.com/Skaant/highbs-bok ⭐✨](https://github.com/Skaant/highbs-bok).
+
+* **IMROK.fr** [I'm also currently refactoring my creative website](https://github.com/Skaant/imrok-next).
 
 ### Historic projects
 
