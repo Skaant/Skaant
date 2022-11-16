@@ -12,17 +12,17 @@ My **passion about software** *design & development* is driven by the will to **
 > 
 > Since my mother bought us an internet connection I started to customize forums, host my static websites and create some JS/PHP algorithms.
 
-After my *computer science/company management* master degree, **I immediately started my freelance life**.
+After my *computer science/company management* (MIAGE) **master degree**, in 2016, I immediately **started my freelance life**.
 
-Five years later, I'm still an independant web-developper, with a **serious interest for sustainable IT** and a quite sensible approach.
+Seven years later, I'm still roxxing as an **independant web-developper**, with a **serious interest for sustainable IT** and a quite sensible approach.
 
 Currently **my main skills are** :
-* Front-end development (SASS, TypeScript, React),
+* Front-end development (TypeScript, React, SASS),
 * Back-end development (Node, PHP),
 * Testing (Jest),
 * CI/CD automation (Actions, Travis).
 
-**I'm also found of patterns !**
+**I'm also found of patterns !** 
 
 ## My GitHub's projects
   
