@@ -6,7 +6,7 @@ I'm Romaric Ruga,
 
 ## Tinker, engineer, artist
 
-My **passion about software** *design & development* is driven by the will to **give my creations shapes on the internet**.
+My **passion about software** *design & development* is driven by the will to **give my creations a shape on the internet**.
 
 > Back to my teen years, I always felt the urge to use computers and to build things online.
 > 
@@ -23,34 +23,35 @@ Currently **my main skills are** :
 * CI/CD automation (Actions, Travis).
 
 **I'm also found of patterns !** 
-
-## My GitHub's projects
   
-### Current projects
+## Current projects
 
-Due to my profesional schedule, I'm not working on "big" projects on my own anymore.
+### Nebula ✨
 
-Instead **I found practical, valuable and more self-centered uses** of my developer skills.
+Nebula is a solution coupling Notion, Gatsby and GitHub CI/CD for a user-friendly data management interface and automated static website refresh.
 
-> Global consciousness
+The main attempt is to create a more light and sustainable alternative to CMS like WordPress.
 
-After doing some researches about ecological impacts of numeric activities, I took a deep dive into JAM stack.
+- `nebula-genesis`, is cloned from the actual Github repo **to fetch data from Notion API and to cache it**,
+- `nebula-atoms`, is a set of Gatsby/React templates, components and types to import in projects.
 
-Times after I discovered Gatsby, I started to replace wy websites' sources (built with my own `motifs-js` framework, see above) with this technology.
+The actual project and process can be seen on the `astraliko-nebula` folder.
 
-* **RIMAROK.com** My [profesionnal freelance web developer site](https://rimarok.com).
+Some of the following website projects also embody this stack.
 
-  The repository can be found here : [https://github.com/Skaant/rimarok-2](https://github.com/Skaant/rimarok-2).
-  
-  And the release tracking project, that I made to work with [@Tim-jn](https://github.com/Tim-jn/) here : [https://github.com/Skaant/rimarok-2/projects/1](https://github.com/Skaant/rimarok-2/projects/1).
+### [RIMAROK.com, freelance 🤖 dev web 🌻 éco-conception](https://rimarok.com)
 
-* **HIGHBS-BOK.art** The most advanced product I made (and maintain) is my [*deep optimistic SF* book's website](https://highbs-bok.art) website.
+- [`rimarok`](https://github.com/Skaant/rimarok), my web developper professional website.
 
-  The repository can be found at this url : [https://github.com/Skaant/highbs-bok ⭐✨](https://github.com/Skaant/highbs-bok).
+### [IMROK.fr, le hub créatif de Romaric Ruga](https://imrok.fr)
 
-* **IMROK.fr** [I'm also currently refactoring my creative website](https://github.com/Skaant/imrok-next).
+- [`imrok`](https://github.com/Skaant/imrok](https://github.com/Skaant/imrok), my creative blog for various thoughts sharing.
 
-### Historic projects
+### [HIGHBS-BOK, le livre du motif absolu](https://highbs-bok.art)** The most advanced product I made (and maintain) is my [*deep optimistic SF* book's website](https://highbs-bok.art) website.
+
+- [`highbs-bok`](https://github.com/Skaant/highbs-bok), my deep optimistic book saga's website.
+
+## Historic projects
 
 During the last years, I played with various JS full-stack technologies.
 
