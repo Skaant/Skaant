@@ -1,42 +1,29 @@
-## Hi there !
+Hi there ! I'm Romaric Ruga, a FR [senior fullstack developper].
 
-I'm Romaric Ruga,
+I spent most of my 8+ years career in freelance context, working for start-ups and medium-sized company.
 
-- aka. [RIMAROK](https://rimarok.com) (freelance web-developer)
-- aka. [IMROK](https://imrok.fr) (multipotent creator).
+My interests are sustainability, low tech and re-naturing.
 
-## Tinker, engineer, artist
+On GitHub, you can find my various projects and experiments, that I'm trying to highlight in this README.
 
-My **passion about software** *design & development* is driven by the will to **give my creations a shape on the internet**.
+You can [contact me on LinkedIn](https://www.linkedin.com/in/romaricruga/), thought :)
 
-> Back to my teen years, I always felt the urge to use computers and to build things online.
-> 
-> Since my mother bought us an internet connection I started to customize forums, host my static websites and create some JS/PHP algorithms.
-
-After my *computer science/company management* (MIAGE) **master degree**, in 2016, I immediately **started my freelance life**.
-
-Seven years later, I'm still roxxing as an **independant web-developper**, with a **serious interest for sustainable IT** and a quite sensible approach.
-
-Currently **my main skills are** :
-* Front-end development (TypeScript, React, SASS),
-* Back-end development (Node, PHP),
-* Testing (Jest),
-* CI/CD automation (Actions, Travis).
-
-**I'm also found of patterns !** 
-  
 ## Current projects
 
 ### Nebula ✨
 
-Nebula is a solution coupling Notion, Gatsby and GitHub CI/CD for a user-friendly data management interface and automated static website refresh.
+Nebula is a toolset to plug and deploy Notion data with Astro static-site generator.
 
-The main attempt is to create a more light and sustainable alternative to CMS like WordPress.
+> Motivation is to bind an user-friendly CMS for editors with and a lightweight website solution
+
+Historicaly, the project used Gatsby in place of Astro.
+Started in 2025, I'm currently moving pieces to build a ready-to-use professional product.
 
 - [`nebula-genesis`](https://github.com/abstract-core/nebula-genesis), is cloned from the actual Github repo **to fetch data from Notion API and to cache it**,
-- [`nebula-atoms`](https://github.com/abstract-core/nebula-atoms), is a set of Gatsby/React templates, components and types to import in projects.
+- (outdated) [`nebula-atoms`](https://github.com/abstract-core/nebula-atoms), is a set of Gatsby/React templates, components and types to import in projects,
+- (WIP) `nebula-system`, dashboard to trigger CI/CD build & deploy workflows.
 
-The actual project and process can be seen on the `astraliko-nebula` folder.
+The actual project and process can be seen on the (outdated) `astraliko-nebula` folder.
 
 Some of the following website projects also embody this stack.
 
@@ -52,6 +39,28 @@ Some of the following website projects also embody this stack.
 
 - [`highbs-bok`](https://github.com/Skaant/highbs-bok), my deep optimistic book saga's website.
 
+
+## Senior fullstack developper
+
+My **passion about software** *design & development* is driven by the will to **give my creations a shape on the internet**.
+
+> Back to my teen years, I always felt the urge to use computers and to build things online.
+> 
+> Since my mother bought us an internet connection I started to customize forums, host my static websites and create some JS/PHP algorithms.
+
+After my *computer science/company management* (MIAGE) **master degree**, in 2016, I immediately **started my freelance life**.
+
+Seven years later, I'm still roxxing as an **independant web-developper**, with a **serious interest for sustainable IT** and a quite sensible approach.
+
+Currently **my main skills are** :
+
+* Front-end development (TypeScript, React, SASS),
+* Back-end development (Node, PHP),
+* Testing (Jest),
+* CI/CD automation (Actions, Travis).
+
+**I'm also found of patterns !** 
+  
 ## Historic projects
 
 During the last years, I played with various JS full-stack technologies.
