@@ -1,4 +1,4 @@
-Hi there ! I'm Romaric Ruga, a FR [senior fullstack developper].
+Hi there ! I'm Romaric Ruga, a FR **senior fullstack developper**.
 
 I spent most of my 8+ years career in freelance context, working for start-ups and medium-sized company.
 
@@ -27,17 +27,26 @@ The actual project and process can be seen on the (outdated) `astraliko-nebula` 
 
 Some of the following website projects also embody this stack.
 
-### [RIMAROK.com](https://rimarok.com), freelance 🤖 dev web 🌻 éco-conception
+### RIMAROK.com, freelance 🤖 dev web 🌻 éco-conception
 
-- [`rimarok`](https://github.com/Skaant/rimarok), my web developper professional website.
+My freelance fullstack JS/PHP developer, professional website.
 
-### [IMROK.fr](https://imrok.fr), le hub créatif de Romaric Ruga
+- [Website](https://rimarok.com)
+- [Repo](https://github.com/Skaant/rimarok),
 
-- [`imrok`](https://github.com/Skaant/imrok), my creative blog for various thoughts sharing.
+### IMROK.fr, le hub créatif de Romaric Ruga
 
-### [HIGHBS-BOK](https://highbs-bok.art), le livre du motif absolu
+My creative blog for various thoughts sharing.
 
-- [`highbs-bok`](https://github.com/Skaant/highbs-bok), my deep optimistic book saga's website.
+- [Website](imrok.fr)
+- [Sources](https://github.com/Skaant/imrok), 
+
+### HIGHBS-BOK, le livre du motif absolu
+
+My deep optimistic book saga's website.
+
+- [Website](https://highbs-bok.imrok.art)
+- [Sources](https://github.com/Skaant/highbs-bok)
 
 
 ## Senior fullstack developper
@@ -54,8 +63,9 @@ Seven years later, I'm still roxxing as an **independant web-developper**, with 
 
 Currently **my main skills are** :
 
-* Front-end development (TypeScript, React, SASS),
+* Front-end development (TypeScript, React, Angular, Vue),
 * Back-end development (Node, PHP),
+* Database management (SQL, Mongo),
 * Testing (Jest),
 * CI/CD automation (Actions, Travis).
 
