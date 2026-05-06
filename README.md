@@ -1,18 +1,19 @@
-Hi there ! I'm Romaric Ruga, a FR **senior fullstack developper**.
+Hi there ! I'm Romaric Ruga (aka [Rimarok](https://rimarok.com)), a french **senior full-stack developper**.
 
-I spent most of my 8+ years career in freelance context, working for start-ups and medium-sized company.
+During my 10 years career, I spent 7 years as a **freelance**, working for **start-ups and medium-sized companies**, and 3 years working in both Rheims university's IT service & Grenoble universities laboratories (TIMC, LIG).
 
-My interests are sustainability, low tech and re-naturing.
+Apart from **web & data engineering**, I'm also working as **tree pruner** and my interests are **sustainability, low tech and re-naturing**.
 
-On GitHub, you can find my various projects and experiments, that I'm trying to highlight in this README.
+In this README, I try to highlight my various projects and experiments. Though, my main project, Nebula (Notion + Astro + GitHub Actions) can be found on
+a specific organization account : [abstract-core](https://github.com/abstract-core).
 
-You can [contact me on LinkedIn](https://www.linkedin.com/in/romaricruga/), thought :)
+We can get in touch through [LinkedIn](https://www.linkedin.com/in/romaricruga/) and take a look at [my website (FR)](https://rimarok.com).
 
 ## Current projects
 
 ### Nebula ✨
 
-Nebula is a toolset to plug and deploy Notion data with Astro static-site generator.
+Nebula is an integrated ecosystem to deploy [Notion](https://notion.com) databases' content as a static [Astro](https://astro.build) website, automated with [Github Actions](https://docs.github.com/en/actions).
 
 > Motivation is to bind an user-friendly CMS for editors with and a lightweight website solution
 
